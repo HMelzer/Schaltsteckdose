@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Funk-Schaltsteckdose-rescue)(type Legacy)(uri ${KIPRJMOD}/Funk-Schaltsteckdose-rescue.lib)(options "")(descr ""))
+)
