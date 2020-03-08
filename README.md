@@ -1,8 +1,8 @@
 # Funkschaltsteckdose für HomeMatic/RaspberryMatik
 
 ## Gehäuse
-Auf der Basis der ELV-Gehäuse OM54 [](https://de.elv.com/elv-design-stecker-steckdosen-gehaeuse-om-54-c-mit-tasterstoessel-und-led-leuchtfeld-083421)
-und des dazugehörigen Steckdose [](https://de.elv.com/schutzkontakt-stecker-steckdosen-einsatz-ohne-sicherungshalter-083422) wird hier eine Funk-Schaltsteckdoese vorgestellt,
+Auf der Basis der [ELV-Gehäuse OM54](https://de.elv.com/elv-design-stecker-steckdosen-gehaeuse-om-54-c-mit-tasterstoessel-und-led-leuchtfeld-083421)
+und des dazugehörigen [Steckdose](https://de.elv.com/schutzkontakt-stecker-steckdosen-einsatz-ohne-sicherungshalter-083422) wird hier eine Funk-Schaltsteckdoese vorgestellt,
 die auf der Basis von AsksinPP arbeitet und voll in das HomeMatic/RaspberryMatik-Programm integriert werden kann.
 
 ## Platine
