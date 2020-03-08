@@ -1,17 +1,17 @@
-## Funkschaltsteckdose für HomeMatic/RaspberryMatik
+# Funkschaltsteckdose für HomeMatic/RaspberryMatik
 
-# Gehäuse
+## Gehäuse
 Auf der Basis der ELV-Gehäuse OM54 [](https://de.elv.com/elv-design-stecker-steckdosen-gehaeuse-om-54-c-mit-tasterstoessel-und-led-leuchtfeld-083421)
 und des dazugehörigen Steckdose [](https://de.elv.com/schutzkontakt-stecker-steckdosen-einsatz-ohne-sicherungshalter-083422) wird hier eine Funk-Schaltsteckdoese vorgestellt,
 die auf der Basis von AsksinPP arbeitet und voll in das HomeMatic/RaspberryMatik-Programm integriert werden kann.
 
-# Platine
+## Platine
 Die Platine wurde mit KICAD entwickelt, die KICAD-Daten sind hier beigefügt.
 Das nachfolgende Bild zeigt Vorder- und Rückseite der Leiterplatte, hier noch im Leiterplattenrahmen,
 aus dem man die Leiterplatten spätestens dann trennen muss, wenn man den Steckdoseneinsatz montieren will.
 ![Leiterplatte](https://github.com/HMelzer/Schaltsteckdose/tree/master/Bilder/Platine.jpg).
 
-# Schaltung
+## Schaltung
 Für die Stromversorgung wurde ein Baustein von Hi-Link verwendet, der primärseitig mit 100 - 240 V gespeist werden kann und sekundärseitig 12 V DC bei 0,25 A liefern kann.
 [HMK-PM12](https://de.aliexpress.com/item/32960181700.html?spm=a2g0s.9042311.0.0.19304c4d0xYQv4).
 Wegen der engen Platzverhältnisse kam ein Relais G6B-2214P der Fa. Omron mit 12 V Spulenspannung zum Einsatz, dass 5 A schalten kann.
