@@ -12,9 +12,9 @@ aus dem man die Leiterplatten spätestens dann trennen muss, wenn man den Steckd
 ![Leiterplatte](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Platine.jpg).
 
 ## Schaltung
-Für die Stromversorgung wurde ein Baustein von Hi-Link verwendet, der primärseitig mit 100 - 240 V gespeist werden kann und sekundärseitig 12 V DC bei 0,25 A liefern kann.
+Für die Stromversorgung wurde ein Baustein von Hi-Link verwendet, der primärseitig mit 100 - 240 V gespeist werden und sekundärseitig 12 V DC bei 0,25 A liefern kann.
 [HMK-PM12](https://de.aliexpress.com/item/32960181700.html?spm=a2g0s.9042311.0.0.19304c4d0xYQv4).
-Wegen der engen Platzverhältnisse kam ein Relais G6B-2214P der Fa. Omron mit 12 V Spulenspannung zum Einsatz, dass 5 A schalten kann.
+Wegen der engen Platzverhältnisse kam ein Relais G6B-2214P der Fa. Omron mit 12 V Spulenspannung zum Einsatz, dass 5 A schalten kann.<p/>
 Herzstück ist, wie in den meisten HomeMatic/RaspberryMatik-Projekten, ein ArduinoProMini in der 3,3 V-Variante, der eine große Verbreitung erlangt hat und bei vielen Anbietern zu bekommen ist.
 Die erforderliche Spannung für diesen und den Sendebaustein erzeugt ein LDO.
 Der ArduinoPro Mini wird nur mit den notwendigen Stiften mit der Leiterplatte verlötet.
