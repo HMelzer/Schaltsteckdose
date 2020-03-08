@@ -9,7 +9,7 @@ die auf der Basis von AsksinPP arbeitet und voll in das HomeMatic/RaspberryMatik
 Die Platine wurde mit KICAD entwickelt, die KICAD-Daten sind hier beigefügt.
 Das nachfolgende Bild zeigt Vorder- und Rückseite der Leiterplatte, hier noch im Leiterplattenrahmen,
 aus dem man die Leiterplatten spätestens dann trennen muss, wenn man den Steckdoseneinsatz montieren will.
-![Leiterplatte](https://github.com/HMelzer/Schaltsteckdose/tree/master/Bilder/Platine.jpg).
+![Leiterplatte](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Platine.jpg).
 
 ## Schaltung
 Für die Stromversorgung wurde ein Baustein von Hi-Link verwendet, der primärseitig mit 100 - 240 V gespeist werden kann und sekundärseitig 12 V DC bei 0,25 A liefern kann.
