@@ -17,11 +17,12 @@ Für die Stromversorgung wurde ein Baustein von Hi-Link verwendet, der primärse
 Wegen der engen Platzverhältnisse kam ein Relais G6B-2214P der Fa. Omron mit 12 V Spulenspannung zum Einsatz, dass 5 A schalten kann.<p/>
 Herzstück ist, wie in den meisten HomeMatic/RaspberryMatic-Projekten, ein ArduinoProMini in der 3,3 V-Variante, der eine große Verbreitung erlangt hat und bei vielen Anbietern zu bekommen ist.
 Die erforderliche Spannung für diesen und den Sendebaustein erzeugt ein LDO.
-Der ArduinoPro Mini wird nur mit den notwendigen Stiften mit der Leiterplatte verlötet.
 Im Schaltplan sind alternativ zwei Sendebausteine aufgeführt.
 Das ist zum einen der klassische CC1101, der in vielen Projekten zur Anwendung kommt.
 Da es damit in der Vergangenheit immer wieder zu Problemen mit der Sende-/Empfangsfrequenz gekommen ist, vergleiche [Fehlerhafte CC1101 Module](https://asksinpp.de/Grundlagen/FAQ/Fehlerhafte_CC1101.html),
 wurde hier in der praktische Ausführung ein anderes Modul, welches ebenfalls den CC1101 verwendet eingesetzt.
 Das Modul ist ein [E07_868MS10 der Fa. Ebyte](http://www.ebyte.com/en/product-view-news.aspx?id=180).
 
-## Ausführung
+## Ausführung/Montage
+Beim Zusammenfügen des Gehäuses und des Steckdoseneinsatz hat es sich gezeigt, dass die Öffnung im Gehäusedeckel geringfügig nachgearbeitet werden muss, um den Steckdoseneinsatz passfähig montieren zu können.
+Der ArduinoPro Mini wird nur mit den notwendigen Stiften mit der Leiterplatte verlötet.
