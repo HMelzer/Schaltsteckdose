@@ -27,8 +27,8 @@ Das Modul ist ein [E07_868MS10](http://www.ebyte.com/en/product-view-news.aspx?i
 Beim Zusammenfügen des Gehäuses und des Steckdoseneinsatz hat es sich gezeigt, dass die Öffnung im Gehäusedeckel geringfügig nachgearbeitet werden muss, um den Steckdoseneinsatz passfähig montieren zu können.
 Mit dem Gehäuse lose mitgeliefert werden der Tastereinsatz, ein Lichtleiter und ein "Knackfrosch" der als Taster dient. Beim Einsetzen des Lichtleiters in den Tastereinsatz ist ein wenig Fingerspitzengefühl erforderlich
 und man solte vorsichtig zu Werke gehen, um nichts abzubrechen.
-Das Bild zeigt die Oberschale mit montiertem Taster und Lichtleiter.![Oberschale](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Oberschale.jpg)<p/>
-Im nachfolgenden Bild sieht man die Unterschale mit der bereits montierten Leiterplatte. ![Unterschale](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Unterschale.jpg)<p/>
+Das Bild zeigt die Oberschale mit montiertem Taster und Lichtleiter.<p/>![Oberschale](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Oberschale.jpg)<p/>
+Im nachfolgenden Bild sieht man die Unterschale mit der bereits montierten Leiterplatte. <p/>![Unterschale](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Unterschale.jpg)<p/>
 Der "Knackfrosch" wurde einfach in die dafür vorgesehen Löcher auf der Vorderseite der Leiterplatte eingesetzt und die Laschen auf der Rückseite leicht umgebogen.
 **Er darf nicht verlötet werden**.
 Vor den eigentlichen Lötarbeiten empfiehlt es sich, die Leiterplatte aus dem Rahmen zu lösen und den Leiterplattenrand an den ehemaligen Verbindungsstellen zu glätten. Die Passfähigkeit im Gehäuse sollte anschließend geprüft werden.
