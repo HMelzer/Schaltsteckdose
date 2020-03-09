@@ -65,4 +65,4 @@ versetzt wird und nach kurzer Zeit die blinkende LED das Blinken einstellen soll
 woraus es dann übernommen, eingestellt und programmiert werden kann.
 
 ## Lizenz
-Der Inhalt dieses Repository unterliegt der aktuellen Lizenz nach Creative Commons - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de [Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de).
+Der Inhalt dieses Repository unterliegt der aktuellen Lizenz nach Creative Commons - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de.
