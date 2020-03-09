@@ -36,12 +36,12 @@ Eine Besonderheit stellt die LED dar, da es sich um eine Bauform handelt, die zw
 Es handelt sich hierbei um eine 3 mm Diode, die von der Leiterplattenrückseite montiert werden muss, wobei diese nicht mehr als 1 mm auf der Vorderseite hervorstehen darf, da sich ansonsten der Taster nicht tief genug drücken lässt.
 Die Anschlussdrähte der Diode sind dabei nahe am Gehäuse zu biegen. Auf die richtige Verschaltung der beiden Dioden ist zu achten. Im Projekt zum Einsatz kam eine **EVL 209SURSYGW** (Reichelt Elektronik).
 Dafür gilt auch der Aufdruck auf der Platine.<br/>
-Der ArduinoProMini wird nur mit allen dafür vorgesehenen Stiften mit der Leiterplatte verlötet. Diesen muss man vor dem Aufsetzen des E07_868MS10 verlöten, da man ansonsten die Stifte nicht mehr ordentlich verlöten kann.
-Die Anschlusstifte für den ArduinoProMini sollten im dem Bereich, wo diese vom E07_868MS10 überdeckt werden nicht so lang ausfallen, damit es keine Kurzschlüsse gibt. Der E07_868MS10 selbst wird dann mittels einer Stiftleiste 8 x 1,27 mm
+Der ArduinoProMini wird nur mit allen dafür vorgesehenen Stiften mit der Leiterplatte verlötet. Das muss vor dem Aufsetzen des E07_868MS10 erfolgen, da man ansonsten die Stifte nicht mehr ordentlich verlöten kann.
+Die Anschlusstifte für den ArduinoProMini sollten in dem Bereich, wo diese vom E07_868MS10 überdeckt werden nicht so lang ausfallen, damit es keine Kurzschlüsse gibt. Der E07_868MS10 selbst wird dann mittels einer Stiftleiste 8 x 1,27 mm
 und einem einzelnen Stift für den Masseanschluss auf der Leiterplatte verlötet. Dadurch erhält der E07_868MS10 auch gleich den nötigen Abstand zur Leiterplatte.
-Die erforderliche Antenne wird durch einen Schaltdraht der Länge 83 mm gebildet, welcher von oben durch das vorhandene Loch rechts neben dem "Knackfrosch" gesteckt wird und mit dem verbliebenen Anschluss am E07_868MS10 verlötet wird.
+Die erforderliche Antenne wird durch einen Schaltdraht der Länge 83 mm gebildet, welcher von oben durch das vorhandene Loch rechts neben dem "Knackfrosch" gesteckt und mit dem verbliebenen Anschluss am E07_868MS10 verlötet wird.
 Das freie Ende des Schaltdrahtes wird dann durch die vorhandenen Löcher neben und oberhalb des ArduinoProMini geführt.<p/>
-ZUm Schluss wird der Steckdoseneinsatzmir der Leiterplatte verlötet. Um die Spätere Passfähigkeit zu erhalten ist es empfehlenswert, Leiterplatte und Steckdoseneinsatz in das Gehäuse einzusetzen und die Laschen oberseitig mit wenig
-Lötzinn zi fixieren. Nach der Entnahme aus dem Gehäuse müssen die Laschen großflächig sowohl auf der Ober-, wie auch auf der Unterseite mit der Leiterplatte verlötet werden.
+Zum Schluss wird der Steckdoseneinsatz mit der Leiterplatte verlötet. Um die spätere Passfähigkeit zu erhalten ist es empfehlenswert, Leiterplatte und Steckdoseneinsatz in das Gehäuse einzusetzen und die Laschen oberseitig mit wenig
+Lötzinn zu fixieren. Nach der Entnahme aus dem Gehäuse müssen die Laschen großflächig, sowohl auf der Ober-, wie auch auf der Unterseite mit der Leiterplatte verlötet werden.
 
 
