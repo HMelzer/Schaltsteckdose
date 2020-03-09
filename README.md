@@ -62,4 +62,7 @@ Nachdem man die Programmierung abgeschlossen und das Gehäuse mittels der mitgel
 sollte zunächst das Ein- und wieder Ausschalten über den Taster möglich sein. Im Aus-Zustand sollte die LED rot leuten, im Ein-Zustand grün.<br/>
 Das Anlernen erfolgt nun in der bekannten Weise, dass man in der Zentrale die Anlernfunktion für Geräte startet und an der Schaltsteckdose den Taster kurz betätigt, wobei dadurch die Schaltsteckdose ebenfalls in den Anlernmodus
 versetzt wird und nach kurzer Zeit die blinkende LED das Blinken einstellen sollte. Nachdem der Anlernmodus in der Zentrale abgelaufen ist, sollte sich das neue Gerät im Posteingang der Zentrale wiederfinden,
-woraus es dann übernommen, eingestellt und programmiert werden kann. 
+woraus es dann übernommen, eingestellt und programmiert werden kann.
+
+## Lizenz
+Der Inhalt dieses Repository unterliegt der aktuellen Lizenz nach Creative Commons - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de [Lizenz](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de).
