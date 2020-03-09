@@ -2,7 +2,7 @@
 
 ## Gehäuse
 Auf der Basis der [ELV-Gehäuse OM54](https://de.elv.com/elv-design-stecker-steckdosen-gehaeuse-om-54-c-mit-tasterstoessel-und-led-leuchtfeld-083421)
-und des dazugehörigen [Steckdoseneinsatzes](https://de.elv.com/schutzkontakt-stecker-steckdosen-einsatz-ohne-sicherungshalter-083422) wird hier eine Funk-Schaltsteckdoese vorgestellt,
+und des dazugehörigen [Steckdoseneinsatzes](https://de.elv.com/schutzkontakt-stecker-steckdosen-einsatz-ohne-sicherungshalter-083422) wird hier eine Funk-Schaltsteckdose vorgestellt,
 die auf der Basis von AsksinPP arbeitet und voll in das HomeMatic/RaspberryMatik-Programm integriert werden kann.
 
 ## Platine
@@ -47,3 +47,13 @@ Lötzinn zu fixieren. Nach der Entnahme aus dem Gehäuse müssen die Laschen gro
 
 ## Programmierung
 Die Datei [HM-LC-Sw1-Pl-DN-R1.ino](https://github.com/HMelzer/Schaltsteckdose/blob/master/HM-LC-Sw1-Pl-DN-R1/HM-LC-Sw1-Pl-DN-R1.ino) enthält das entsprechende Programm, welches in den ArduinoProMini eingespielt werden muss.
+Im Bereich ab Zeile 43 sind wie immer die entsprechenden Anpassungen für "Device ID" und "Device Serial" vorzunehmen.<br/>
+Die eigentliche Programmierung erfolgt dann mittels der Programmiersoftware für den Arduino in der entsprechend neusten Version und einen FTDI Adapter FT232RL USB zu TTL.
+Bei Verwendung eines solchen, beispielsweise der Fa. AZ-Delivery, kann man die daran vorhandene Stiftleiste gleich in die dafür vorgesehenen Löcher am ArduinoProMini stecken und so die Programmierung auf einfache Weise vornehmen.
+
+## Anlernen
+Nachdem man die Programmierung abgeschlossen und das Gehäuse mittels der mitgelieferten Schrauben geschlossen hat, kann man die erste Funktionsprobe vornehmen. Hat man die Schaltsteckdose mittels der Steckerstifte mit dem Stromnetz verbunden,
+sollte zunächst das Ein- und wieder Ausschalten über den Taster möglich sein. Im Aus-Zustand sollte die LED rot leuten, im Ein-Zustand grün.<br/>
+Das anlernen erfolgt nun in der bekannten Weise, dass man in der Zentrale die Anlernfunktion für geräte startet und an der Schaltsteckdose kurz den Taster betätigt, wobei dadurch die Schaltsteckdose ebenfalls in den Anlernmodus
+versetzt wird und nach kurzer Zeit die blinkende LED das blinken einstellen sollte. Nachdem der Anlernmodus in der Zentrale abgelaufen ist, sollte sich das neue Gerät im Posteingang der Zentrale wiederfinden, woraus es dann übernommen,
+eingestellt und programmiert werden kann. 
