@@ -44,6 +44,9 @@ Die Anschlusstifte für den ArduinoProMini sollten in dem Bereich, wo diese vom 
 und einem einzelnen Stift für den Masseanschluss auf der Leiterplatte verlötet. Dadurch erhält der E07_868MS10 auch gleich den nötigen Abstand zur Leiterplatte.
 Die erforderliche Antenne wird durch einen Schaltdraht der Länge 83 mm gebildet, welcher von oben durch das vorhandene Loch rechts neben dem "Knackfrosch" gesteckt und mit dem verbliebenen Anschluss am E07_868MS10 verlötet wird.
 Das freie Ende des Schaltdrahtes wird dann wechselseitig durch die vorhandenen Löcher neben und oberhalb des ArduinoProMini geführt.<p/>
+Das folgende Bild zeigt die bestückte Rückseite mit bereits montiertem Steckdoseneinsatz. Die montierte LED ist gut zu erkennen, ebenso das Funkmodul und die verlegte Antenne.
+Das geänderte Leiterplattenlayout oben links ist in den Daten bereits korrigiert.<p/>
+![Leiterplattenrückseite](https://github.com/HMelzer/Schaltsteckdose/blob/master/Bilder/Leiterplattenrückseite.jpg)<p/>
 Zum Schluss wird der Steckdoseneinsatz mit der Leiterplatte verlötet. Um die spätere Passfähigkeit zu erhalten ist es empfehlenswert, Leiterplatte und Steckdoseneinsatz in das Gehäuse einzusetzen und die Laschen oberseitig mit wenig
 Lötzinn zu fixieren. Nach der Entnahme aus dem Gehäuse müssen die Laschen großflächig, sowohl auf der Ober-, wie auch auf der Unterseite mit der Leiterplatte verlötet werden.
 
