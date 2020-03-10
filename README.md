@@ -38,7 +38,7 @@ bedingt ist.
 Eine Besonderheit stellt die LED dar, da es sich um eine Bauform handelt, die zwei LED, rot und grün, in einem Gehäuse vereinigt.
 Es handelt sich hierbei um eine 3 mm Diode, die von der Leiterplattenrückseite montiert werden muss, wobei diese nicht mehr als 1 mm auf der Vorderseite hervorstehen darf, da sich ansonsten der Taster nicht tief genug drücken lässt.
 Die Anschlussdrähte der Diode sind dabei nahe am Gehäuse zu biegen. Auf die richtige Verschaltung der beiden Dioden ist zu achten. Im Projekt zum Einsatz kam eine **EVL 209SURSYGW** (Reichelt Elektronik).
-Dafür gilt auch der Aufdruck auf der Platine.<br/>
+Dafür gilt auch der Aufdruck auf der Platine. Alternativ kann natürlich auch der Lichtleiter etwas gekürzt werden.<br/>
 Der ArduinoProMini wird nun mit allen dafür vorgesehenen Stiften mit der Leiterplatte verlötet. Das muss vor dem Aufsetzen des E07_868MS10 erfolgen, da man ansonsten die Stifte nicht mehr ordentlich verlöten kann.
 Die Anschlussstifte für den ArduinoProMini sollten in dem Bereich, wo diese vom E07_868MS10 überdeckt werden, nicht so lang ausfallen, damit es keine Kurzschlüsse gibt. Der E07_868MS10 selbst wird dann mittels einer Stiftleiste 8 x 1,27 mm
 und einem einzelnen Stift für den Masseanschluss auf der Leiterplatte verlötet. Dadurch erhält der E07_868MS10 auch gleich den nötigen Abstand zur Leiterplatte.
@@ -59,8 +59,8 @@ Bei Verwendung eines solchen, beispielsweise der Fa. AZ-Delivery, kann man die d
 
 ## Anlernen
 Nachdem man die Programmierung abgeschlossen und das Gehäuse mittels der mitgelieferten Schrauben geschlossen hat, kann man die erste Funktionsprobe vornehmen. Hat man die Schaltsteckdose mittels der Steckerstifte mit dem Stromnetz verbunden,
-sollte zunächst das Ein- und wieder Ausschalten über den Taster möglich sein. Im Aus-Zustand sollte die LED rot leuchten, im Ein-Zustand grün.<br/>
-Das Anlernen erfolgt nun in der bekannten Weise, dass man in der Zentrale die Anlernfunktion für Geräte startet und an der Schaltsteckdose den Taster kurz betätigt, wobei dadurch die Schaltsteckdose ebenfalls in den Anlernmodus
+sollte zunächst das Ein- und wieder Ausschalten über den Taster möglich sein. Im Aus-Zustand sollte keine LED leuchten, im Ein-Zustand die grüne LED.<br/>
+Das Anlernen erfolgt nun in der bekannten Weise, dass man in der Zentrale die Anlernfunktion für Geräte startet und an der Schaltsteckdose den Taster kurz betätigt (rote LED blinkt), wobei dadurch die Schaltsteckdose ebenfalls in den Anlernmodus
 versetzt wird und nach kurzer Zeit die blinkende LED das Blinken einstellen sollte. Nachdem der Anlernmodus in der Zentrale abgelaufen ist, sollte sich das neue Gerät im Posteingang der Zentrale wiederfinden,
 woraus es dann übernommen, eingestellt und programmiert werden kann.
 
