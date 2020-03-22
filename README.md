@@ -37,7 +37,7 @@ Alle verwendeten Bauelemente sind als THT ausgeführt, sodass sich die Lötarbei
 bedingt ist.
 Eine Besonderheit stellt die LED dar, da es sich um eine Bauform handelt, die zwei LED, rot und grün, in einem Gehäuse vereinigt.
 Es handelt sich hierbei um eine 3 mm Diode, die von der Leiterplattenrückseite montiert werden muss, wobei diese nicht mehr als 1 mm auf der Vorderseite hervorstehen darf, da sich ansonsten der Taster nicht tief genug drücken lässt.
-Alternativ kann man allerdings auch den Lichtleiter beispielsweise mittels Dremel um ca. 2 mm kürzen. Die Anschlussdrähte der Diode sind dabei nahe am Gehäuse zu biegen. Auf die richtige Verschaltung der beiden Dioden ist zu achten. Im Projekt zum Einsatz kam eine **EVL 209SURSYGW** (Reichelt Elektronik).
+Alternativ kann man allerdings auch den Lichtleiter, beispielsweise mittels Dremel, um ca. 2 mm kürzen. Die Anschlussdrähte der Diode sind dabei nahe am Gehäuse zu biegen. Auf die richtige Verschaltung der beiden Dioden ist zu achten. Im Projekt zum Einsatz kam eine **EVL 209SURSYGW** (Reichelt Elektronik).
 Dafür gilt auch der Aufdruck auf der Platine. Alternativ kann natürlich auch der Lichtleiter etwas gekürzt werden.<br/>
 Bevor der ArduinoProMini mit allen dafür vorgesehenen Stiften mit der Leiterplatte verlötet wird, muss man die Stiftleiste (8 x 1,27 mm) für den E07_868MS10 aufsetzen und verlöten, da die Lötpunkte unter dem Arduino zu liegen kommen.
 Die Anschlussstifte für den ArduinoProMini sollten in dem Bereich, wo diese vom E07_868MS10 überdeckt werden, nicht so lang ausfallen, damit es keine Kurzschlüsse gibt. Der E07_868MS10 selbst wird dann mittels der Stiftleiste 8 x 1,27 mm
